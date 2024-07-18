@@ -53,7 +53,7 @@
 
 ## Конфігурація
 
-1. Замініть TOKEN в кореневу файлі main на ваш Telegram Bot API Token
+1. Замініть TOKEN в кореневому файлі main на ваш Telegram Bot API Token
 
 ## Використання
 
