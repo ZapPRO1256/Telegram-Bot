@@ -3,7 +3,7 @@ import telebot
 import time
 from parsernews_save_date_in_file import get_news
 
-bot = telebot.TeleBot('7095456957:AAHekdlVpLG2wzgaqXvnRGQfy9o5z4QzffA')
+bot = telebot.TeleBot('TOKEN')
 
 site = "https://unn.ua/politics"
 
