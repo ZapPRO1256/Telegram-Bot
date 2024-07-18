@@ -20,9 +20,15 @@
 - Telegram Bot API Token
 - Встановлені пакети:
   - `requests`
-  - `beautifulsoup4`
-  - `pyTelegramBotAPI`
-  - `threading`
+  - `beautifulsoup4 4.12.3`
+  - `certifi 2024.7.4`
+  - `charset-normalizer 3.3.2`
+  - `idna 3.7`
+  - `lxml 5.2.2`
+  - `pyTelegramBotAPI 4.21.0`
+  - `requests 2.32.3`
+  - `soupsieve 2.5`
+  - `urllib3 2.2.2`
 
 ## Установка
 
